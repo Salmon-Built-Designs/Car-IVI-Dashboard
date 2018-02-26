@@ -1,5 +1,30 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>QuickControlBar.qml</file>
+        <file>StatusBar.qml</file>
+        <file>Shadow.qml</file>
+        <file>maps-google-vertical.png</file>
+        <file>ClimateFanStatus.qml</file>
+    </qresource>
+    <qresource prefix="/ui-assets">
+        <file>main/quickcontrolsbackground.svg</file>
+        <file>main/upper-shadow.svg</file>
+        <file>main/white-ford-logo.svg</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>antenna/Antenna-Black.otf</file>
+        <file>antenna/Antenna-BlackItalic.otf</file>
+        <file>antenna/Antenna-Bold.otf</file>
+        <file>antenna/Antenna-BoldItalic.otf</file>
+        <file>antenna/Antenna-ExtraLight.otf</file>
+        <file>antenna/Antenna-ExtraLightItalic.otf</file>
+        <file>antenna/Antenna-Light.otf</file>
+        <file>antenna/Antenna-Medium.otf</file>
+        <file>antenna/Antenna-MediumItalic.otf</file>
+        <file>antenna/Antenna-Regular.otf</file>
+        <file>antenna/Antenna-RegularItalic.otf</file>
+        <file>antenna/Antenna-Thin.otf</file>
+        <file>antenna/Antenna-ThinItalic.otf</file>
     </qresource>
 </RCC>
